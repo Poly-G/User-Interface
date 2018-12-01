@@ -172,3 +172,8 @@ h1 {
 address {
 	display: inline-block;
 }
+
+.copyright {
+	text-align: center;
+	margin: 20px;
+}
