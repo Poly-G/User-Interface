@@ -138,8 +138,37 @@ h1 {
 	margin-left: 140px;
 }
 
-
-
 .second-img {
  width: 750px;
+}
+
+.features,
+.about {
+	margin: 20px 0 20px 0;
+	display: inline-block;
+	height: 10%;
+	width: 48%;
+}
+
+.about {
+	margin-left: 10px;
+	float: right;
+	
+}
+
+.services, 
+.product, 
+.vision {
+	display: inline-block;
+	width: 33%;
+	height: 10%;
+	margin: 20px 0 20px 0;
+}
+
+.vision {
+	float: right;
+}
+
+address {
+	display: inline-block;
 }
