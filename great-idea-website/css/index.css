@@ -78,11 +78,9 @@ header {
 	width: 100%;
 }
 
-
 header nav {
 	display: inline-block;
 	margin: 25px;
-	
 }
 
 header nav a {
